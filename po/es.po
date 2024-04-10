@@ -23,11 +23,11 @@ msgstr "Hoy"
 
 #: src/Configs/Strings.vala:29
 msgid "Categories"
-msgstr "Categorias"
+msgstr "Categorías"
 
 #: src/Configs/Strings.vala:30
 msgid "Visit web site"
-msgstr "Visita el sitio web"
+msgstr "Visitar el sitio web"
 
 #: src/Configs/Strings.vala:31
 msgid "Photos from Unsplash: Beautiful Free Images & Pictures 🎁"
@@ -35,7 +35,7 @@ msgstr "Fotos de Unsplash: Hermosas imágenes y fotografías gratuitas 🎁"
 
 #: src/Configs/Strings.vala:32
 msgid "Photo by "
-msgstr "Foto por"
+msgstr "Foto por "
 
 #: src/Configs/Strings.vala:33
 msgid " on Unsplash"
@@ -47,11 +47,11 @@ msgstr "Compartir"
 
 #: src/Configs/Strings.vala:35
 msgid "Email"
-msgstr "Correo"
+msgstr "Correo electrónico"
 
 #: src/Configs/Strings.vala:36
 msgid "Copy link"
-msgstr "Copiar vínculo"
+msgstr "Copiar enlace"
 
 #: src/Configs/Strings.vala:37
 msgid "Options"
@@ -79,15 +79,15 @@ msgstr "¡Fondo de pantalla listo!"
 
 #: src/Configs/Strings.vala:43
 msgid "Your new wallpaper is ready!"
-msgstr "Tu nuevo fondo de pantalla está listo"
+msgstr "¡Tu nuevo fondo de pantalla está listo!"
 
 #: src/Configs/Strings.vala:44
 msgid "Check the network connection."
-msgstr "Revisa la conexión a internet"
+msgstr "Revisa la conexión a internet."
 
 #: src/Configs/Strings.vala:45
 msgid "Retry"
-msgstr "Reintenta"
+msgstr "Reintentar"
 
 #: src/Configs/Strings.vala:46
 msgid "🌎  An amazing place in the world"
@@ -103,7 +103,7 @@ msgstr "🐹 Animal"
 
 #: src/Configs/Strings.vala:49
 msgid "☕ Food & drink"
-msgstr "☕ Comida & bebida"
+msgstr "☕ Comida y bebida"
 
 #: src/Configs/Strings.vala:50
 msgid "🌙 Space"
@@ -115,7 +115,7 @@ msgstr "🏸 Deporte"
 
 #: src/Configs/Strings.vala:52
 msgid "📊 Business & work"
-msgstr "📊 Negocios & trabajo"
+msgstr "📊 Negocios y trabajo"
 
 #: src/Configs/Strings.vala:53
 msgid "‍🎩 Fashion"
@@ -123,7 +123,7 @@ msgstr "🎩 Moda"
 
 #: src/Configs/Strings.vala:54
 msgid "🎨 Art & culture"
-msgstr "🎨 Arte & cultura"
+msgstr "🎨 Arte y cultura"
 
 #: src/Configs/Strings.vala:55
 msgid "🏦 Architecture"
@@ -135,7 +135,7 @@ msgstr "💻 Tecnología"
 
 #: src/Configs/Strings.vala:57
 msgid "🍁 Texture & pattern"
-msgstr "🍁 Textura & patron"
+msgstr "🍁 Textura y patrón"
 
 #: src/Configs/Strings.vala:58
 msgid "📑 Flat lay"
@@ -151,11 +151,11 @@ msgstr "Cargando…"
 
 #: src/Configs/Strings.vala:61
 msgid "Close full screen"
-msgstr "Salir de pantalla completa"
+msgstr "Cerrar pantalla completa"
 
 #: src/Configs/Strings.vala:62
 msgid "Search photos Unsplash"
-msgstr "Busca fotos de Unsplash"
+msgstr "Buscar fotos en Unsplash"
 
 #: src/Configs/Strings.vala:63
 msgid "History"
@@ -179,7 +179,7 @@ msgstr "HOY"
 
 #: src/Configs/Strings.vala:68
 msgid "CATEGORIES"
-msgstr "CATEGORIAS"
+msgstr "CATEGORÍAS"
 
 #: src/Configs/Strings.vala:69
 msgid "HISTORY"
@@ -215,7 +215,7 @@ msgstr "Intenta cambiando el término de búsqueda."
 
 #: src/Configs/Strings.vala:77
 msgid "Click on a photo to add it to the history."
-msgstr "Click a una foto para agregarla al historial."
+msgstr "Haz clic en una foto para añadirla al historial."
 
 #: src/Configs/Strings.vala:78
 msgid "Network Error"
@@ -239,22 +239,21 @@ msgstr "Elimina una foto del historial"
 
 #: src/Configs/Strings.vala:83
 msgid "Are you sure you want to delete the photo from history?"
-msgstr "¿Seguro que quieres eliminar la foto del historial?"
+msgstr "¿Estás seguro de que quieres eliminar la foto del historial?"
 
 #: src/Configs/Strings.vala:84
-#, fuzzy
 msgid "Wallpaper Slideshow"
-msgstr "¡Fondo de pantalla listo!"
+msgstr "Presentación de fondos de pantalla"
 
 #: src/Configs/Strings.vala:85
 msgid "Preparing slideshow ..."
-msgstr "Preparando galería de fondos de pantalla ..."
+msgstr "Preparando presentación de diapositivas..."
 
 #: src/Configs/Strings.vala:86
 msgid "Select a period of time to change the wallpaper in the slideshow."
 msgstr ""
-"Selecciona un periodo de tiempo para cambiar el fondo de pantalla en la "
-"galería."
+"Selecciona un período de tiempo para cambiar el fondo de pantalla en la "
+"presentación."
 
 #: src/Configs/Strings.vala:87
 msgid ""
@@ -285,7 +284,7 @@ msgstr "%d foto seleccionada"
 
 #: src/Configs/Strings.vala:92
 msgid "Select 1 or more photos by clicking on "
-msgstr "Selecciona una o más fotos dando clic en "
+msgstr "Selecciona una o más fotos haciendo clic en "
 
 #: src/Configs/Strings.vala:93
 #, fuzzy
